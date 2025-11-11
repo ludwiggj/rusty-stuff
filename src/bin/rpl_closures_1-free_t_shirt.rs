@@ -35,7 +35,7 @@ impl Inventory {
     }
 }
 
-// https://doc.rust-lang.org/book/ch13-01-closures.html
+// https://doc.rust-lang.org/book/ch13-0    1-closures.html
 fn main() {
     let store = Inventory { shirts: vec![ShirtColour::Blue, ShirtColour::Red, ShirtColour::Blue] };
 
